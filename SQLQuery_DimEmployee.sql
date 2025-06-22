@@ -1,0 +1,5 @@
+ALTER TABLE [AWN_DW_Demo].[dbo].[DimEmployee] ALTER COLUMN StartDate DATETIME
+ GO
+
+ALTER TABLE [AWN_DW_Demo].[dbo].[DimEmployee] ALTER COLUMN EndDate DATETIME
+GO
